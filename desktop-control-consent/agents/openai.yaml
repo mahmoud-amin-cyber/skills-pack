@@ -1,0 +1,4 @@
+interface:
+  display_name: "Desktop Control"
+  short_description: "Operate Windows apps with task-level approval"
+  default_prompt: "Use $desktop-control-consent to control a Windows app for this task."
